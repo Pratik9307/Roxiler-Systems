@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Replace the connection string directly in the code
-const MONGO_URI = 'mongodb+srv://Pratik:Zc3zewFkgaCstPzk@cluster0.xexyi.mongodb.net/Roxiler-main'; // Example URI
+const MONGO_URI = ''; // Example URI
 
 const connectDB = async () => {
     try {
